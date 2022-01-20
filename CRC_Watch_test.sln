@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRC_Watch_test", "CRC_Watch_test\CRC_Watch_test.csproj", "{436B6C41-F187-4452-BC6D-DD694B37406C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436B6C41-F187-4452-BC6D-DD694B37406C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436B6C41-F187-4452-BC6D-DD694B37406C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436B6C41-F187-4452-BC6D-DD694B37406C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436B6C41-F187-4452-BC6D-DD694B37406C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A25D6CF-F5C2-47C8-A380-70B0A7896A73}
+	EndGlobalSection
+EndGlobal
